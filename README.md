@@ -9,15 +9,17 @@ Auto Clicker sederhana menggunakan Python dan `pynput` untuk melakukan klik mous
 
 ## Instalasi
 
-1. **Clone atau download repositori ini.**
+1. **Download dan install [Python 3.x](https://www.python.org/downloads/) jika belum terpasang di komputer Anda.**
 
-2. **Masuk ke folder proyek:**
+2. **Clone atau download repositori ini.**
+
+3. **Masuk ke folder proyek:**
 
    ```bash
    cd /Users/alfandi/Development/python/auto-clicker
    ```
 
-3. **Install dependencies:**
+4. **Install dependencies:**
    ```bash
    pip install -r requirement.txt
    ```
