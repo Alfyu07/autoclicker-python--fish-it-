@@ -16,7 +16,7 @@ Auto Clicker sederhana menggunakan Python dan `pynput` untuk melakukan klik mous
 3. **Masuk ke folder proyek:**
 
    ```bash
-   cd /Users/alfandi/Development/python/auto-clicker
+   cd autoclicker-python--fish-it-
    ```
 
 4. **(Opsional) Buat dan aktifkan virtual environment:**
