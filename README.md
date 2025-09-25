@@ -19,7 +19,17 @@ Auto Clicker sederhana menggunakan Python dan `pynput` untuk melakukan klik mous
    cd /Users/alfandi/Development/python/auto-clicker
    ```
 
-4. **Install dependencies:**
+4. **(Opsional) Buat dan aktifkan virtual environment:**
+
+   ```bash
+   python -m venv venv
+   # Aktifkan di Windows:
+   venv\Scripts\activate
+   # Aktifkan di macOS/Linux:
+   source venv/bin/activate
+   ```
+
+5. **Install dependencies:**
    ```bash
    pip install -r requirement.txt
    ```

@@ -5,8 +5,8 @@ from pynput.keyboard import Listener, KeyCode
 
 # === KONFIGURASI ===
 TOGGLE_KEY = KeyCode(char="=")     # Aktifkan/Nonaktifkan
-INTERVAL_MS = 80                 # Jeda antar klik (dari akhir klik sebelumnya ke awal berikutnya)
-DURATION_MS = 400                  # Lama menahan klik (dalam milidetik)
+INTERVAL_MS = 40                 # Jeda antar klik (dari akhir klik sebelumnya ke awal berikutnya)
+DURATION_MS = 410                  # Lama menahan klik (dalam milidetik)
 CLICK_REPEAT = True                # True = ulang terus, False = sekali saja
 
 # === VARIABEL GLOBAL ===
